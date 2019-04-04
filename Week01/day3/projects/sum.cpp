@@ -2,7 +2,7 @@
 #include <string>
 
 int sum (int number) {
-    int a = 0;
+    int x = 0;
     for (int x = 0; x <= number; x++) {
         a = x+a;
     }
