@@ -23,8 +23,8 @@ std::cin >> girls;
 std::cout << "how many boys are coming?" << std::endl;
 std::cin >> boys;
 
-if (girls == boys && girls + boys >= 20) {
-    std::cout << "The Party is excellent!"
+if (girls == 0) {
+    std::cout << "Sausage party" << std::endl;
 }
     return 0;
 }
