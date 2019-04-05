@@ -3,4 +3,4 @@ project(practiceprojects)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(practiceprojects AverageofInput.cpp)
+add_executable(practiceprojects main.cpp)
