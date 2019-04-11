@@ -3,4 +3,4 @@ project(sumdigits)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(sumdigits main.cpp)
+add_executable(sumdigits sumdigits.cpp)
