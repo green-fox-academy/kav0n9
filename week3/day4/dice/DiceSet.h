@@ -2,15 +2,25 @@
 // Created by aaron on 2019. 04. 18..
 //
 
-#ifndef DICE_DICESET_H
-#define DICE_DICESET_H
+#ifndef DICE_SET_DICE_SET_H
+#define DICE_SET_DICE_SET_H
 
+#include <iostream>
+#include <vector>
 
+class DiceSet
+{
+public:
 
-class DiceSet {
+    DiceSet();
 
+    void roll();
+    void roll(int i);
+    std::vector<int> getCurrent() const;
+    int getCurrent(int i) const;
+private:
+    std::vector<int> dices;
 };
 
 
-
-#endif //DICE_DICESET_H
+#endif //DICE_SET_DICE_SET_H
