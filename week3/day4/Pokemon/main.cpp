@@ -31,6 +31,17 @@ int main(int argc, char* args[])
 
     // Which pokemon should Ash use?
 
-    std::cout << "I choose You, " << name << std::endl;
-    return 0;
+    std::vector<std::string> useThisPokemon;
+
+    for (int i = 0; i < pokemonOfAsh.size(); i++) {
+        Pokemon currentPokemon = pokemonOfAsh[i];
+        if (currentPokemon.isEffectiveAgainst(wildPokemon)) {
+            useThisPokemon.push_back(currentPokemon._name);
+        }
+    }
+
+    for (int i = 0; i < useThisPokemon.size(); i++) {
+        std::cout << "I choose You, " << useThisPokemon[i] << std::endl;
+    }
+        return 0;
 }
