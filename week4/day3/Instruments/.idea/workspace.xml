@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Instruments" targetName="Instruments" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0e534ac-1976-4a93-8c14-3fec4530a2ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/BMI.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/ClassmatesWelcome.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/CodingHours.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/CompareLength/.idea/CompareLength.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/CompareLength/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/CompareLength/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/CompareLength/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/DefineBasicInfo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/FavNumber.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/FavNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week01/day2/projects/FavNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/HelloAaron.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/IntroduceYourself.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/Swap.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/TwoNumbers.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/VariableMutation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/VariableMutation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week01/day2/projects/VariableMutation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week01/day2/projects/humpty.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week2/day1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day1/PrintAddresses.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week2/day1/PrintAddresses.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day1/Swap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week2/day1/Swap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day2/.idea/day2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day2/Simple Replace/.idea/Simple Replace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day2/Simple Replace/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day2/Simple Replace/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day2/Simple Replace/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day2/URLFixer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week2/day2/URLFixer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day2/URLFixer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week2/day2/URLFixer/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day4/bunnies/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week2/day4/bunnies/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day4/fibonacci/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week2/day4/fibonacci/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week2/day4/sumdigits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week2/day4/sumdigits/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/PrintEachLine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day1/PrintEachLine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/PrintEachLine/PrintEachLine.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day1/PrintEachLine/PrintEachLine.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/WriteMultyLine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day1/WriteMultyLine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day1/WriteSingleLine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day1/WriteSingleLine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day3/Animal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day3/Animal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day3/BlogPost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day3/BlogPost/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/Sharpie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day4/Sharpie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/Sharpie/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day4/Sharpie/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/Sharpie/Sharpie.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day4/Sharpie/Sharpie.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/Sharpie/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day4/Sharpie/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/dice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day4/dice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week3/day4/fleet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week3/day4/fleet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day2/Garden/.idea/Garden.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2/Garden/.idea/Garden.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day2/Garden/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2/Garden/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day2/Garden/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2/Garden/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day2/GreenFoxOrg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2/GreenFoxOrg/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Instruments.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Instruments.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StringedInstruments.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StringedInstruments.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ElectricGuitar.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Violin.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Violin.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BassGuitar.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BassGuitar.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Instruments.h" />
+        <option value="$PROJECT_DIR$/ElectricGuitar.h" />
+        <option value="$PROJECT_DIR$/ElectricGuitar.cpp" />
+        <option value="$PROJECT_DIR$/StringedInstruments.cpp" />
+        <option value="$PROJECT_DIR$/Violin.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/BassGuitar.h" />
+        <option value="$PROJECT_DIR$/BassGuitar.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Violin.h" />
+        <option value="$PROJECT_DIR$/StringedInstruments.h" />
+        <option value="$PROJECT_DIR$/Instruments.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Instruments.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Instruments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instruments" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Instruments" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Instruments" TARGET_NAME="Instruments" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Instruments" RUN_TARGET_NAME="Instruments">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0e534ac-1976-4a93-8c14-3fec4530a2ac" name="Default Changelist" comment="" />
+      <created>1556104877697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556104877697</updated>
+      <workItem from="1556104883841" duration="7184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7184000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="CMake" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ElectricGuitar.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="195" selection-start-line="5" selection-start-column="195" selection-end-line="5" selection-end-column="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BassGuitar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElectricGuitar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violin.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violin.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BassGuitar.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringedInstruments.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringedInstruments.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Instruments.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Instruments.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
